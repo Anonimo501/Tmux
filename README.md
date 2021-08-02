@@ -2,7 +2,7 @@
 
 ## Install
 
-https://github.com/Anonimo501/Tmux.git
+git clone https://github.com/Anonimo501/Tmux.git
 
 cd Tmux
 
